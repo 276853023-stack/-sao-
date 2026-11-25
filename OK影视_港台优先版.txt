@@ -1,0 +1,45 @@
+﻿香港,#genre#
+翡翠台,http://50.7.233.114:8278/Jade_xue/playlist.m3u8
+iNews 互動新聞台,http://50.7.233.114:8278/inews_twn/playlist.m3u8
+J 2,http://50.7.233.114:8278/j2_twn/playlist.m3u8
+珍珠台,http://50.7.233.114:8278/pearl_twn/playlist.m3u8
+凤凰香港,http://50.7.233.114:8278/hkphoenix_twn/playlist.m3u8
+RHK 31,http://50.7.233.114:8278/rhk31_twn/playlist.m3u8
+VIUTV1,http://50.7.233.114:8278/viu1_twn/playlist.m3u8
+Viu6,http://50.7.233.114:8278/viusix_twn/playlist.m3u8
+台湾,#genre#
+TVBS HD,http://50.7.233.114:8278/tvbs/playlist.m3u8
+中天娱乐 CTI Entertaiment,http://50.7.233.114:8278/ctient/playlist.m3u8
+中天综合 CTI Metro,http://50.7.233.114:8278/ctizhonghe/playlist.m3u8
+中天亚洲台,http://50.7.233.114:8278/ctiasia_twn/playlist.m3u8
+台视综合台,http://50.7.233.114:8278/ttvzhonghe/playlist.m3u8
+民视 HD,http://50.7.233.114:8278/ftvhd_taiwan/playlist.m3u8
+民视台湾台,http://50.7.233.114:8278/ftvtaiwan_twn/playlist.m3u8
+八大戏剧 GTV Drama,http://50.7.233.114:8278/badadrama/playlist.m3u8
+三立台湾 Sanli Taiwan,http://50.7.233.114:8278/sanlitaiwan/playlist.m3u8
+龙华戏剧 Lunghua Drama,http://50.7.233.114:8278/lunghuaxiju_twn/playlist.m3u8
+年代新闻,http://50.7.233.114:8278/niandainews_twn/playlist.m3u8
+纬来电影台,http://50.7.233.114:8278/videolandmovie/playlist.m3u8
+纬来体育台,http://50.7.233.114:8278/videolandsport/playlist.m3u8
+纬来综合台,http://50.7.233.114:8278/videolandzonghe/playlist.m3u8
+好消息 2,http://50.7.233.114:8278/good2_twn/playlist.m3u8
+亚洲美食,http://50.7.233.114:8278/afc_twn/playlist.m3u8
+亚洲旅游 TLC Asia,http://50.7.233.114:8278/tlc_twn/playlist.m3u8
+博斯运动 1,http://50.7.233.114:8278/bosisport1_twn/playlist.m3u8
+东森洋片 ETTV Western,http://50.7.233.114:8278/ettvwestern/playlist.m3u8
+博斯无限,http://50.7.233.114:8278/bosiunlimited_twn/playlist.m3u8
+靖天卡通台,http://50.7.233.114:8278/jingtiancartoon_twn/playlist.m3u8
+EYETV 戏剧,http://50.7.233.114:8278/eyetvxiju_twn/playlist.m3u8
+东森幼幼 Yoyo TV,http://50.7.233.114:8278/yoyo_twn/playlist.m3u8
+美亚电影,http://50.7.233.114:8278/meiyamovie_twn/playlist.m3u8
+爱尔达戏剧台,http://50.7.233.114:8278/eltadrama_twn/playlist.m3u8
+東森財經新聞 ETTV Business,http://50.7.233.114:8278/ettvcaijing_twn/playlist.m3u8
+中天新聞 CTI News,http://50.7.233.114:8278/ctinews/playlist.m3u8
+非凡新聞台,http://50.7.233.114:8278/feifannews_twn/playlist.m3u8
+Elta体育1台,http://50.7.233.114:8278/eltasport1_twn/playlist.m3u8
+Elta體育2台,http://50.7.233.114:8278/eltasport2_twn/playlist.m3u8
+博斯高球2 HD,http://50.7.233.114:8278/bosigolf2_twn/playlist.m3u8
+寰宇新聞台,http://50.7.233.114:8278/huanyuxinwen_twn/playlist.m3u8
+中視新聞台,http://50.7.233.114:8278/zhongshinews_twn/playlist.m3u8
+DAZN 1,http://50.7.233.114:8278/dazn1_twn/playlist.m3u8
+动物星球,http://50.7.233.114:8278/animalplanet_twn/playlist.m3u8
